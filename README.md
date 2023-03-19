@@ -1,7 +1,8 @@
-## Реализованы API тесты на страницу https://reqres.in/
+# Реализованы API тесты на страницу https://reqres.in/
 ![Страница регистрации](![изображение](https://user-images.githubusercontent.com/118796374/226185228-39cd90d1-a52e-46b2-9ba4-8e853ef38110.png))
 
 Тесты покрывают методы:
+
 ![изображение](https://user-images.githubusercontent.com/118796374/226185268-523557a7-bc1f-45f9-8c6d-bcdb6d210318.png)
 
 ```bash
